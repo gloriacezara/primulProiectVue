@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Our main product",
+      "description": "This is the description of our main product",
+      "price": "2.99"
+    },
+    {
+      "id": 2,
+      "title": "This is our latest product",
+      "description": "Our new, freshly developed... OOOPS, it didn't get released yet.",
+      "price": "2"
+    }
+  ],
+  "users": [
+    {
+      "username": "test",
+      "password": "test"
+    },
+    {
+      "username": "tes",
+      "password": "tes"
+    }
+  ],
+  "user": {
+    "name": "typicode"
+  }
+}
